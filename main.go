@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/saravase/golang_daily_practice/practice8"
-)
+import "github.com/saravase/golang_daily_practice/practice9"
 
 func main() {
 	// practice1.Run()
@@ -12,5 +10,6 @@ func main() {
 	// practice5.Run()
 	// practice6.Run()
 	// practice7.Run()
-	practice8.Run()
+	// practice8.Run()
+	practice9.Run()
 }
